@@ -1,0 +1,20 @@
+#CMAKE FILES
+CMakeFiles
+Makefile
+cmake_install.cmake
+CMakeCache.txt
+_deps
+Build
+R-type
+R-type Server
+Libs/ECS/libECSlib.a
+Client/Client
+Client/client_rtype
+Server/Server
+Server/server_rtype
+.vscode
+CPackConfig.cmake
+CPackSourceConfig.cmake
+SphinxDoc/_build
+libLibLoader.a
+Platformergame

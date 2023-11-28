@@ -1,0 +1,31 @@
+Maps:
+
+Map1:
+{
+    Map_name: Straight_path
+    Path: ../assets/maps/map1.txt
+    x: 20
+    y: 10
+    Difficulty: 10
+    boss: false
+}
+
+Map2:
+{
+    Map_name: Straight_DeathRow
+    Path: ../assets/maps/map2.txt
+    x: 20
+    y: 10
+    Difficulty: 10
+    boss: false
+}
+
+Map3:
+{
+    Map_name: Straight_Breakable
+    Path: ../assets/maps/map3.txt
+    x: 40
+    y: 10
+    Difficulty: 10
+    boss: true
+}
